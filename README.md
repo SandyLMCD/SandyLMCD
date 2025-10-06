@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React, GoHighLevel, Systeme.io**
 
-- 👯 I’m looking to collaborate on **Branding and design projects**
+- 👯 I’m looking to collaborate on **branding and design projects**
 
 - 📫 How to reach me **officialsandy.ss@gmail.com**
 
