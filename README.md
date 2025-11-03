@@ -12,6 +12,7 @@
 - 👯 I’m looking to collaborate on **branding and design projects**
 
 - 📫 How to reach me **officialsandy.ss@gmail.com**
+- 💌 For design projects and collabs, email me at **sundesignsph@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
