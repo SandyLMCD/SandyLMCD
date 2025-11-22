@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandylmcd&label=Profile%20views&color=0e75b6&style=flat" alt="sandylmcd" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandylmcd" alt="sandylmcd" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandylmcd" alt="sandylmcd" /></a> </p> -->
 
 - 🔭 I’m currently working on **real estate website, vet clinic system, social media ads, automated systems**
 
